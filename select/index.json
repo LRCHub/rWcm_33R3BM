@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ティアーズ",
+  "base_artist": "Sabrina Carpenter",
+  "createdAt": "2026-02-09T12:34:16.154032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "フォロー・ザ・ティアーズ",
+      "artist": "Heaven & Hell",
+      "has_synced": true,
+      "path": "select/01_フォロー・ザ・ティアーズ_Heaven_&_Hell.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドント・クライ・マイ・ティアーズ",
+      "artist": "Burning Witches",
+      "has_synced": true,
+      "path": "select/02_ドント・クライ・マイ・ティアーズ_Burning_Witches.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "グッバイ・ティアーズ",
+      "artist": "こだまさおり",
+      "has_synced": false,
+      "path": "select/03_グッバイ・ティアーズ_こだまさおり.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tears",
+      "artist": "Sabrina Carpenter",
+      "has_synced": false,
+      "path": "select/pl_01_Tears_Sabrina_Carpenter.txt"
+    }
+  ]
+}

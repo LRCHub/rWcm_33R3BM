@@ -1,0 +1,69 @@
+# Sabrina Carpenter – ティアーズ
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Mm
+Mm, mm
+Uh
+I get wet at the thought of you
+(Uh-huh)
+Being a responsible guy
+Treating me like
+you're supposed to do
+(Uh-huh)
+Tears run down my thighs
+A little initiative
+can go a very long, long way
+Baby, just do the dishes,
+I'll give you
+(What you, what you,
+what you want)
+A little communication,
+yes, that's my ideal foreplay
+Assemble a chair from IKEA,
+I'm like, "Uh" (Uh)
+I get wet at the thought of you
+(Uh-huh)
+Being a responsible guy
+(So responsible)
+Treating me like
+you're supposed to do
+(Uh-huh)
+Tears run down my thighs
+A little respect for
+women can get you very,
+very far
+Remembering how to use
+your phone gets me
+(Oh so, oh so, oh so hot)
+Considering I have feelings,
+I'm like,
+"Why are my clothes still on?"
+Offering to do anything,
+I'm like, "Oh my God"
+I get wet at the thought of you
+(Uh-huh)
+Being a responsible guy
+(So responsible)
+Treating me like
+you're supposed to do
+(Uh-huh)
+Tears run down my thighs
+I get wet at the thought of you
+Being a responsible guy
+Treating me like
+you're supposed to do
+Tears run down my thighs
+Dance break
+So responsible
+Oh
+I get wet at the thought of you
+(Uh-huh)
+Being a responsible guy
+(So responsible)
+Treating me like
+you're supposed to do
+(Uh-huh)
+Tears run down my thighs
+```
